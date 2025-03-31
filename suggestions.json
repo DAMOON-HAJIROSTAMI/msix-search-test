@@ -1,0 +1,21 @@
+{
+    "Suggestions": [
+      {
+        "Attributes": {
+          "url": "https://en.wikipedia.org/wiki/Matrix_(mathematics)",
+          "query": "matrix",
+          "previewPaneUrl": "https://en.wikipedia.org/wiki/Matrix_(mathematics)"
+        },
+        "Text": "Matrix (mathematics)"
+      },
+      {
+        "Attributes": {
+          "url": "https://en.wikipedia.org/wiki/Rotation_matrix",
+          "query": "rotation matrix",
+          "previewPaneUrl": "https://en.wikipedia.org/wiki/Rotation_matrix"
+        },
+        "Text": "Rotation matrix"
+      }
+    ]
+  }
+  
