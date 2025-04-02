@@ -1,9 +1,9 @@
 {
-  "contentVersion": "1",
-  "providerId": "WikipediaProvider",
-  "suggestionTypes": ["query"],
-  "data": {
-    "suggestionsUrl": "https://wikipediaadapter.onrender.com/suggest?qry={searchTerms}",
-    "queryString": "{searchTerms}"
-  }
+  "SearchEndpoint": "https://wikipediaadapter.onrender.com/suggest?qry={searchTerms}",
+  "Protocol": "wiksearch",
+  "SuggestionsPath": "$.Suggestions",
+  "QueryPath": "$.Attributes.query",
+  "UrlPath": "$.Attributes.url",
+  "PreviewPaneUrlPath": "$.Attributes.previewPaneUrl",
+  "TextPath": "$.Text"
 }
